@@ -2,3 +2,12 @@ click~=8.1.6
 python-dotenv~=1.0.0
 pyyaml~=6.0
 stocksymbol~=0.0.5
+mysql-connector-python~=8.0.32
+tqdm~=4.66.1
+pandas~=2.1.0
+yaml~=0.2.5
+yfinance==0.2.32
+boto3
+requests~=2.31.0
+python-dateutil~=2.8.2
+python-dateutil
